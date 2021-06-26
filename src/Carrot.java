@@ -1,5 +1,5 @@
 public class Carrot extends Vegetable {
-
+// one comment
     String color = "orange";
 
 public static void m1(){
